@@ -1,0 +1,35 @@
+{
+    "Registration": 
+    {
+        "login_link": "//*[@id='block-loginmenu']/div/ul/li[1]/a",
+        "registration_link": "//*[@id='block-loginmenu']/div/ul/li[2]/a",
+        "dob": "//*[@id='edit-dob-cibinqo']",
+        "dropdown_options": "//*[@id='edit-product']",
+        "cibinquo": "//*[@id='edit-product']/option[3]",
+        "continue": "//*[@id='edit-cpf-continue']",
+        "next": "//*[@id='edit-validate-cpf']",
+        "dropdown_options_3": "//*[@id='edit-product']/option[3]",
+        "cpf_field": "//*[@id='edit-cpf']",
+        "scroll_down":"//*[@id='termDiv']/text()[42]",
+        "step_2": "//*[@id='edit-concordo']",
+        "checkbox_1": "//*[@id='edit-agree-terms']",
+        "name":"//*[@id='edit-name']",
+        "surname": "//*[@id='edit-last-name']",
+        "email": "//*[@id='edit-email']",
+        "ddd":"//*[@id='edit-cellphone-code']",
+        "celular" : "//*[@id='edit-cellphone']",
+        "checkbox_2" : "//*[@id='legal-section']/div[4]/div[2]/label",
+        "CRM":"//*[@id='edit-crm']",
+        "state":"//*[@id='edit-uf']",
+        "option": "//*[@id='edit-uf']/option[26]",
+        "password": "//*[@id='edit-password']",
+        "Confirm_password": "//*[@id='edit-confirm-password']",
+        "checkbos_3": "//*[@id='legal-section']/div[10]/label",
+        "checkbox_4": "//*[@id='legal-section']/div[11]/label",
+        "checkbos_5": "//*[@id='legal-section']/div[12]/label",
+        "Continue_last": "//*[@id='edit-submit-final']",
+        "accept_coockie": "//*[@id='_evidon-banner-acceptbutton']",
+        "area": "//*[@id='termDiv']"
+    }
+
+}
